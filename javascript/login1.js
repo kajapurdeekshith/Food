@@ -1,5 +1,5 @@
-var emailid="sumraghu99@gmail.com"
-var password="Raghu@"
+var emailid="deekshith@gmail.com"
+var password="Dee@123"
 function authorized()
 {
     var usergivenid1=document.getElementById("Email").value
